@@ -1,0 +1,23 @@
+{
+  "repo": "cakewalk-by-max",
+  "product": "Cakewalk by Max",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "audio-production",
+  "topics": [
+    "cakewalk-by",
+    "cakewalk-windows",
+    "audio-production-desktop",
+    "how-to-install-cakewalk",
+    "cakewalk-by-desktop-package",
+    "cakewalk-workspace",
+    "cakewalk-by-pro-tools",
+    "cakewalk-suite",
+    "zentool-cakewalk",
+    "cakewalk-by-tool-9"
+  ],
+  "site": "zentool.art"
+}
